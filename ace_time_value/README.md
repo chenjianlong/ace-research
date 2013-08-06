@@ -3,14 +3,12 @@ ACE_Time_Value
 
 Result
 -
-<pre>
-beg time sec: 1375768791 usec: 0
-end time sec: 1375768794 usec: 0
-end - beg time sec: 3 usec: 0
-(end - beg) > zero: 1
-beg - end time sec: -3 usec: 0
-(beg - end) > zero: 0
-</pre>
+> beg time sec: 1375768791 usec: 0  
+end time sec: 1375768794 usec: 0  
+end - beg time sec: 3 usec: 0  
+(end - beg) > zero: 1  
+beg - end time sec: -3 usec: 0  
+(beg - end) > zero: 0  
 
 Conclusions
 -
