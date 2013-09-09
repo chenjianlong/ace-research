@@ -1,6 +1,11 @@
 ACE_Message_Queue
 ============
 
+Purpose
+-
+> the purpose of this code is use to ensure whether the hwm and lwm
+> is determine the size of queue in bytes or items
+
 Result
 -
 > queue_size is: 20  
@@ -12,11 +17,6 @@ Result
 > insert: 3  
 > insert: 4  
 > enqueue_tail failed, errno: 10035 reason: the timeout elapsed
-
-Purpose
--
-> the purpose of this code is use to ensure whether the hwm and lwm
-> is determine the size of queue in bytes oritems
 
 Conclusions
 -
