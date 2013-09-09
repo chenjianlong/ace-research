@@ -7,3 +7,4 @@ ENDIF (POLICY CMP0015)
 INCLUDE (ace.cmake)
 
 ADD_SUBDIRECTORY (ace_time_value)
+ADD_SUBDIRECTORY (ace_message_queue)
